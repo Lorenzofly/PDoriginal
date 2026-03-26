@@ -1,0 +1,5 @@
+{
+   "jar": "desktop-1.7.2a-1.jar",
+   "mainClass": "com/watabou/pd/desktop/DesktopLauncher",
+   "vmArgs": [
+   ]}
